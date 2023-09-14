@@ -48,3 +48,8 @@ add_custom_command(TARGET ${PROJECT_NAME} POST_BUILD        # Adds a post-build 
         "${aris_DIR}/../../../lib/${CMAKE_BUILD_TYPE}/aris_lib.dll"      # <--this is in-file
         $<TARGET_FILE_DIR:${PROJECT_NAME}>)                 # <--this is out-file path
 
+add_custom_command(TARGET ${PROJECT_NAME} POST_BUILD        # Adds a post-build event to MyTest
+    COMMAND ${CMAKE_COMMAND} -E copy  # which executes "cmake - E copy_if_different..."
+        "${PROJECT_SOURCE_DIR}/lib/libzmq-v142-mt-4_3_4.dll"    # <--this is in-file
+        "${PROJECT_SOURCE_DIR}/lib/libzmq.dll" 
+        $<TARGET_FILE_DIR:${PROJECT_NAME}>)                 # <--this is out-file path
