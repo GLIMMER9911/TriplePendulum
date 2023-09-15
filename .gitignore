@@ -3,5 +3,5 @@
 
 # Build directory
 *build/
-out/
-.vs/
+*out/
+*.vs/
