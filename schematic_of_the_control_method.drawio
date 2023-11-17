@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-11-17T07:43:56.185Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="-ATiF41VtE08pkB-Mo6z" version="22.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-17T07:46:07.544Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="YM2B6rtHw8TMPAdquqS_" version="22.1.2" type="github">
   <diagram name="第 1 页" id="MlkXA7hDsNdLh-0CrnH8">
-    <mxGraphModel dx="792" dy="444" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="153" dy="86" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="C2j0wEuDLRqraLq5ZE-T-222" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="88" y="741" width="336" height="160" as="geometry" />
+          <mxGeometry x="89" y="740" width="336" height="163" as="geometry" />
         </mxCell>
         <mxCell id="C2j0wEuDLRqraLq5ZE-T-219" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="445" y="672" width="317" height="162" as="geometry" />
@@ -100,13 +100,14 @@
         <mxCell id="C2j0wEuDLRqraLq5ZE-T-37" value="Calaulate the CoM, momentum" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="205" y="535" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="C2j0wEuDLRqraLq5ZE-T-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.05;entryY=1.018;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="C2j0wEuDLRqraLq5ZE-T-185">
+        <mxCell id="C2j0wEuDLRqraLq5ZE-T-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.023;entryY=0.962;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310.53" y="866" as="sourcePoint" />
-            <mxPoint x="107.99699999999987" y="788.25" as="targetPoint" />
+            <mxPoint x="309.33" y="867.4999999999999" as="sourcePoint" />
+            <mxPoint x="114.99900000000001" y="775.3599999999999" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="124" y="867" />
-              <mxPoint x="124" y="775" />
+              <mxPoint x="309.8" y="868.4999999999999" />
+              <mxPoint x="114.8" y="868.4999999999999" />
+              <mxPoint x="114.8" y="776.4999999999999" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -382,7 +383,7 @@
           <mxGeometry x="291" y="790" width="25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="C2j0wEuDLRqraLq5ZE-T-209" value="$$\ddot{x}^{*}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="105" y="788" width="20" height="30" as="geometry" />
+          <mxGeometry x="123" y="788" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="C2j0wEuDLRqraLq5ZE-T-212" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.319;entryY=1.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="C2j0wEuDLRqraLq5ZE-T-50" target="C2j0wEuDLRqraLq5ZE-T-185">
           <mxGeometry relative="1" as="geometry">
