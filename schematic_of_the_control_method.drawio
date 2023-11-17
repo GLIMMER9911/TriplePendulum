@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-17T09:11:03.156Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="P5tjuycKVHcNJpU2uwjb" version="22.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-17T09:27:53.431Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="VZUS3wHGuYeUodreHQ5c" version="22.1.2" type="github">
   <diagram name="第 1 页" id="MlkXA7hDsNdLh-0CrnH8">
     <mxGraphModel dx="1131" dy="634" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -86,8 +86,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C2j0wEuDLRqraLq5ZE-T-10" value="$$ \min_{\tau} (\ddot{x}-\ddot{x}^{*})^{T}W(\ddot{x}-\ddot{x}^{*})+\tau^{T}S\tau$$" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="454" y="690" width="281" height="30" as="geometry" />
+        <mxCell id="C2j0wEuDLRqraLq5ZE-T-10" value="$$&amp;nbsp;\min_{\mathbf{\tau}} (\ddot{\mathbf{x}}-\ddot{\mathbf{x}}^{*})^{T}\mathbf{W}(\ddot{\mathbf{x}}-\ddot{\mathbf{x}}^{*})+\mathbf{\tau}^{T}\mathbf{S}\mathbf{\tau}$$" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="455" y="690" width="281" height="30" as="geometry" />
         </mxCell>
         <mxCell id="C2j0wEuDLRqraLq5ZE-T-33" value="$$\mathbf{q}_{i},\dot{\mathbf{q}}_{i}&amp;nbsp; $$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="510" y="900" width="70" height="15" as="geometry" />
@@ -160,10 +160,10 @@
         <mxCell id="C2j0wEuDLRqraLq5ZE-T-99" value="$$\ddot{c}_{x}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="484" y="720" width="20" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="C2j0wEuDLRqraLq5ZE-T-100" value="$$\underline{d} \le&amp;nbsp; H\tau \le \overline{d}&amp;nbsp;$$" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="530" y="751" width="85" height="30" as="geometry" />
+        <mxCell id="C2j0wEuDLRqraLq5ZE-T-100" value="$$\underline{\mathbf{d}} \le&amp;nbsp; \mathbf{H}\mathbf{\tau}&lt;br&gt;\le \overline{\mathbf{d}}&amp;nbsp;&amp;nbsp;$$" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="519" y="751" width="96" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="C2j0wEuDLRqraLq5ZE-T-101" value="$$\ddot{x} = A\tau+B$$" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="C2j0wEuDLRqraLq5ZE-T-101" value="$$\ddot{\mathbf{x}} = A\mathbf{\tau}+B$$" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="650" y="750" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="C2j0wEuDLRqraLq5ZE-T-102" value="$$\ddot{x}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
