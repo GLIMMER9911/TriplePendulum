@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-17T07:46:07.544Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="YM2B6rtHw8TMPAdquqS_" version="22.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-17T07:47:44.321Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="Yc_JskEV8_S9YT7vRX3f" version="22.1.2" type="github">
   <diagram name="第 1 页" id="MlkXA7hDsNdLh-0CrnH8">
-    <mxGraphModel dx="153" dy="86" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="381" dy="213" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -99,17 +99,6 @@
         </mxCell>
         <mxCell id="C2j0wEuDLRqraLq5ZE-T-37" value="Calaulate the CoM, momentum" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="205" y="535" width="110" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="C2j0wEuDLRqraLq5ZE-T-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.023;entryY=0.962;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="309.33" y="867.4999999999999" as="sourcePoint" />
-            <mxPoint x="114.99900000000001" y="775.3599999999999" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="309.8" y="868.4999999999999" />
-              <mxPoint x="114.8" y="868.4999999999999" />
-              <mxPoint x="114.8" y="776.4999999999999" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="C2j0wEuDLRqraLq5ZE-T-38" value="&lt;font face=&quot;Times New Roman&quot;&gt;Calculate CoM and momentum&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="310" y="845" width="95" height="45" as="geometry" />
@@ -411,6 +400,13 @@
         </mxCell>
         <mxCell id="C2j0wEuDLRqraLq5ZE-T-223" value="&lt;font face=&quot;Times New Roman&quot;&gt;Balance Control&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="89" y="871" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C2j0wEuDLRqraLq5ZE-T-228" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.018;entryY=0.97;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="C2j0wEuDLRqraLq5ZE-T-38" target="C2j0wEuDLRqraLq5ZE-T-185">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="115" y="868" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
