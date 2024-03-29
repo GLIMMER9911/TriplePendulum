@@ -1,0 +1,1 @@
+libzmp version:  libzmq-v142-mt-4_3_4.lib
