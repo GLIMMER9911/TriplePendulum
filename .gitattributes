@@ -1,0 +1,13 @@
+.vs/TriplePendulum-ZMQ-v2/v17/Browse.VC.db filter=lfs diff=lfs merge=lfs -text
+
+# 忽略临时文件
+
+
+# 忽略日志文件
+
+
+# 忽略某个目录及其内容
+.vs/
+out/
+
+# 不忽略importantfile.txt
